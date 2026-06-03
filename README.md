@@ -1,5 +1,8 @@
-## Fadecio | Frontend Developer
- Desenvolvedor Frontend em formação | HTML, CSS e JavaScript | Criando interfaces modernas e responsivas
+# Fadécio Lemos
+
+Desenvolvedor Front-end Júnior em formação, com foco em HTML, CSS, JavaScript, interfaces responsivas e aplicações web com regras de negócio.
+
+Atualmente construo projetos práticos para portfólio, aplicando manipulação do DOM, consumo de APIs, localStorage, validação de formulários, responsividade e organização modular de código.
 
 
     
